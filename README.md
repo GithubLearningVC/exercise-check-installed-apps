@@ -57,7 +57,7 @@ Use these to help you!
 
 Resources specific to this exercise:
 
-<!-- - Add further resources for the learner -->
+
 
 - [_Installing a GitHub App in your organization_ in GitHub Docs]
 
